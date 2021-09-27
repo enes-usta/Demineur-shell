@@ -3,7 +3,7 @@ Le projet ici est un démineur en C jouable depuis un shell Linux.
 Celui-ci à été testé Ubuntu 18.04.1 LTS
 
 
-TODO :
+	// TODO //
 Je n'ai pas eu le temps de faire la vérification des saisies dans certains cas (Saisie de chiffre).
 N'oubliez pas le ctrl+c si vous avez fait une saisie inappropiée.
 
